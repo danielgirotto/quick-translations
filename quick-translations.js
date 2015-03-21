@@ -6,7 +6,7 @@
 // @version     1
 // @resource    cleanslate https://raw.githubusercontent.com/premasagar/cleanslate/master/cleanslate.css
 // @resource    magic https://raw.githubusercontent.com/miniMAC/magic/master/magic.min.css
-// @resource    style http://localhost:8000/style.css
+// @resource    style https://raw.githubusercontent.com/danielgirotto/quick-translations/master/style.css
 // @require     http://code.jquery.com/jquery-1.11.2.min.js
 // @grant       GM_xmlhttpRequest
 // @grant       GM_addStyle
