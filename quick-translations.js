@@ -26,7 +26,7 @@ $(function() {
   });
 
   $(document).click(function(event) {
-    $('.tooltip').remove();
+    $('.popup').remove();
   });
 
   function getSelectionText() {
