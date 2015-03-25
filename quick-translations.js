@@ -70,8 +70,9 @@ $(function() {
 
     $('<table>', {
       class: 'popup cleanslate magictime puffIn',
-        append: $('<tr>', {
-          text: 'Traduções de ' + source[0][0][1] + ' : ' + source[0][0][0]
+        append: $('<td>', {
+          text: 'Tradução de ' + source[0][0][1] + ' : ' + source[0][0][0],
+          colspan: 2
         })
     }).appendTo('body');
 
